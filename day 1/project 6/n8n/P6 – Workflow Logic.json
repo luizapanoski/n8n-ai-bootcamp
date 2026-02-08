@@ -17,7 +17,6 @@
     {
       "parameters": {
         "public": true,
-        "authentication": "n8nUserAuth",
         "initialMessages": "Hi there! 👋\nWelcome to our IT support. Please tell us your name to get started:",
         "options": {
           "inputPlaceholder": "Type your name.."
@@ -580,7 +579,7 @@
     "binaryMode": "separate",
     "availableInMCP": false
   },
-  "versionId": "456925c1-c70a-443c-9a5a-db7fae0e6aec",
+  "versionId": "ac340c84-00d6-40c8-bc85-8683006e3e26",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "26bf8eec37d4d0a7ee8a9b62eaf593a40b0ce784017882c7b978518d626df3a8"

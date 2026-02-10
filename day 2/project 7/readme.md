@@ -169,7 +169,7 @@ Activity Log:
 
 
 ### 6. Try it out!
-- Try fetching the ticket ID `MLFNSMXT.txt` using the Chatbot and update it.
+- Try fetching the ticket ID `MLFNSMXT` using the Chatbot and update it.
 
 ---
 
@@ -183,12 +183,12 @@ You will build a custom n8n workflow which can be added to the AI agent as a too
 ### 2. Add Trigger Node `When Executed by Another Workflow`
 #### Input data mode: `Define using fields below`
 
-| Parameter | Type   |
+| Name | Type   |
 | ----- | ---------- |
-| User Name | String` |
-| Issue Description | String` |
-| Status | String` |
-| Prio | String` |
+| `User Name` | String |
+| `Issue Description` | String |
+| `Status` | String |
+| `Prio` | String |
 
 **Pin Test Data**:
 - User Name: `Tobias`

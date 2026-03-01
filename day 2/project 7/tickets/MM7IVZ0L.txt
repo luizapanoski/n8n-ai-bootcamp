@@ -1,0 +1,9 @@
+User Name: Luiza
+
+Submitted: 2026-03-01T11:03:29.543+02:00
+
+Description: My laptop fell down and it is broken
+
+Status: Open
+
+Prio: Urgent
